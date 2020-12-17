@@ -2,9 +2,9 @@ Package: MRmediation
 Type: Package
 Title: A Causal Mediation Method with Methylated Region (MR) as the
         Mediator
-Version: 1.0.0
+Version: 1.0.1
 Author: Qi Yan
-Maintainer: Qi Yan <qiy17@pitt.edu>
+Maintainer: Qi Yan <qy2253@cumc.columbia.edu>
 Description: A causal mediation approach under the counterfactual framework 
     to test the significance of total, direct and indirect effects. In this approach, 
     a group of methylated sites from a predefined region are utilized as the mediator, 
@@ -16,8 +16,8 @@ LazyData: true
 Depends: R (>= 3.5.0), fda
 Imports: MASS, stats
 RoxygenNote: 7.1.0
-Collate: 'MRmediation.R' 'example_data.R'
+Collate: 'MRmediation.R' 'mediation_single.R' 'example_data.R'
 NeedsCompilation: no
-Packaged: 2020-07-06 19:33:53 UTC; qiyan
+Packaged: 2020-12-17 17:45:14 UTC; qiyan
 Repository: CRAN
-Date/Publication: 2020-07-07 09:00:10 UTC
+Date/Publication: 2020-12-17 22:50:16 UTC

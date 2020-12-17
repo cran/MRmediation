@@ -1,7 +1,9 @@
-063a5c078a16d2b6e286d8ed13a4bfba *DESCRIPTION
-85d45c6d9f4af318dead47c611a3cd21 *NAMESPACE
+5d477347ab82cf35f189d4c7bda35fa1 *DESCRIPTION
+9721bd030266c20a234343bd6a4c4e8d *NAMESPACE
 464ece7a2b181a4bb3d5bae3da3c8ed1 *R/MRmediation.R
 07446d05d98d46694aaf97cb54c2d379 *R/example_data.R
+c44dc05cfca1462be31c299e44d060ec *R/mediation_single.R
 55737c797e091db974e350f34d310505 *data/example_data.RData
 2781696f842aaffe8d9590f9dd9a12c7 *man/example_data.Rd
 56bebcad2d07d9b77d4948480565d820 *man/mediation.Rd
+79ca1b38ba020e9ac20dab2e67ff93ec *man/mediation_single.Rd
